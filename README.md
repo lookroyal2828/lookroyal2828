@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lookroyal2828
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m M Partha Sarathy
+- 👀 I’m interested in ...Hiring Software Developers 
+- 🌱 I’m Hiring manager for Invensis 
+- 💞️ I’m looking to collaborate on ...Recruiting 
+- 📫 How to reach me ...recruitment@invensis.net  ( Cell: 9353868759)
 
 <!---
 lookroyal2828/lookroyal2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
